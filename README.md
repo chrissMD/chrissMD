@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## I am a Medical Technology Engineer and a Data Science Enthusiast
-> 🌱 I’m currently learning Data Science
+## Connect with me:
+![image](https://github.com/chrissMD/chrissMD/assets/48135643/1e7aa6ba-43b4-4839-a511-ebf28a8296d4)
+
+
