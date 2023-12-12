@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ## I am a Medical Technology Engineer and a Data Science Enthusiast
 ## Connect with me:
-[![LinkedIn](linked-in-alt.svg | width=50)](https://www.linkedin.com/in/kristjanqarri/)
+[![LinkedIn](linked-in-alt.svg|width=50)](https://www.linkedin.com/in/kristjanqarri/)
+
 
 
 
