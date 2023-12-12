@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## I am a Medical Technology Engineer and a Data Science Enthusiast
 ## Connect with me:
-[![image](https://github.com/chrissMD/chrissMD/assets/48135643/e0f22649-3071-493e-bb13-b4b7a99dd027)
-)](https://www.linkedin.com/in/kristjanqarri/)
+[![LinkedIn](linked-in-alt.svg | width=50)](https://www.linkedin.com/in/kristjanqarri/)
+
 
 
