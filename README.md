@@ -2,6 +2,7 @@
 <h3 align="center">Medical Technology Engineer passionate about Data Science</h3>
 
 - 🌱 I’m currently learning **Data Science**
+- Latest Project [here](https://github.com/PasPelle/ML_vs_Cancer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
